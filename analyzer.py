@@ -4,7 +4,7 @@ Network Traffic Analyzer
 Parses packet captures (live or from .pcap files) and flags suspicious
 patterns: port scans, SYN floods, and abnormal traffic volume spikes.
 
-Author: James Gaspardo
+Author: James G
 
 Usage:
     # Analyze an existing pcap file
