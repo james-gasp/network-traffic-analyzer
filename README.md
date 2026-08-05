@@ -1,10 +1,10 @@
 # Network Traffic Analyzer
 
-A Python tool that parses network traffic (`.pcap` files or live capture) and flags suspicious patterns — port scans, SYN floods, and abnormal traffic volume spikes — using sliding time-window detection.
+A Python tool that parses network traffic (`.pcap` files or live capture) and flags suspicious patterns — port scans, SYN floods, and abnormal traffic volume spikes using sliding time-window detection.
 
 ## Why I built this
 
-I wanted hands-on experience with packet-level network analysis instead of just reading about it. This project covers protocol fundamentals (TCP flags, IP addressing), scripting against real capture data, and — maybe more importantly — the debugging process of validating a security tool against real traffic instead of trusting that it works.
+I wanted hands-on experience with packet-level network analysis. This project covers protocol fundamentals (TCP flags, IP addressing), scripting against real capture data, and maybe more importantly the debugging process of validating a security tool against real traffic instead of trusting that it works.
 
 ## How it works
 
